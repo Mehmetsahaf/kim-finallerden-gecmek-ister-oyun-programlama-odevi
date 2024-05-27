@@ -1,7 +1,7 @@
 # kim-finallerden-gecmek-ister-oyun-programlama-odevi
-Kim Finallerden Geçmek İster? - Oyun Programlama Ödevi
+Kim Finallerden Geçmek İster? - Oyun Programlama Ödevi(H3)
 
-##Oyun Hakkında
+<font size="+20">##Oyun Hakkında</font>
 
 Üniversite öğrencilerinin final sınavlarına hazırlanırken kendilerini test edebilecekleri eğlenceli ve eğitici bir oyun geliştirdik. "Kim Finallerden Geçmek İster?" adlı bu oyun, öğrencilerin hem bilgi düzeylerini hem de hızlı düşünme becerilerini sınamalarını sağlıyor.
 
