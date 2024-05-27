@@ -16,7 +16,7 @@ Tüm soruları zamanında ve doğru yaptığında Final sınavvının provasın�
 ![Github 4](https://github.com/Mehmetsahaf/kim-finallerden-gecmek-ister-oyun-programlama-odevi/assets/111656564/a6dacd99-67f8-4b05-b1c8-1ea1da5bbd8a)
 
 
-
+https://youtu.be/yY7SUuWzGUs
 
 
 
