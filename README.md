@@ -1,11 +1,11 @@
 # kim-finallerden-gecmek-ister-oyun-programlama-odevi
 Kim Finallerden Geçmek İster? - Oyun Programlama Ödevi(H3)
 
-<font size="+20">##Oyun Hakkında</font>
+## Oyun Hakkında 
 
 Üniversite öğrencilerinin final sınavlarına hazırlanırken kendilerini test edebilecekleri eğlenceli ve eğitici bir oyun geliştirdik. "Kim Finallerden Geçmek İster?" adlı bu oyun, öğrencilerin hem bilgi düzeylerini hem de hızlı düşünme becerilerini sınamalarını sağlıyor.
 
-##Oyunun Özellikleri
+## Oyunun Özellikleri
 
 Ana Ekran: Oyuncuları karşılayan ve ders seçimine yönlendiren ana ekran.
 3 Farklı Ders: Matematik, tarih ve edebiyat gibi farklı ders seçenekleri. İsteğe bağlı olarak ders sayısı artırılabilir.
@@ -14,11 +14,11 @@ Puan ve Can Sistemi: Doğru cevaplar puanı artırırken, yanlış cevaplar 3 ca
 Final Sınavı Provası: Tüm soruları zamanında ve doğru cevaplayanlar, final sınavına hazır olduklarını gösterir.
 Oynanış Videosu
 
-##Oyunun nasıl oynandığını görmek için aşağıdaki videoyu izleyebilirsiniz:
+## Oyunun nasıl oynandığını görmek için aşağıdaki videoyu izleyebilirsiniz:
 
 https://youtu.be/yY7SUuWzGUs
 
-##Ek Bilgiler
+## Ek Bilgiler
 
 Oyun, Unity oyun motoruyla geliştirilmiştir.
 Grafikler ve ses efektleri öğrencilerin ilgisini çekecek şekilde tasarlanmıştır.
