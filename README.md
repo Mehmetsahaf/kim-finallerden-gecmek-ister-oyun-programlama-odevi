@@ -42,7 +42,7 @@ Not: Bu proje, bir üniversite oyun programlama ödevi kapsamında geliştirilmi
 
 
 # Ana ekranı ve 3 ayrı ders olmak üzere hazırlanmıştır isteğe göre eklenebilir
-5 soruyu 1 dakika içinde bilmeye çalışarak hem hız hemde zekalarını test edebilecekleri bir yer haline getirdik
+# 5 soruyu 1 dakika içinde bilmeye çalışarak hem hız hemde zekalarını test edebilecekleri bir yer haline getirdik
 
 
 ![Github 2](https://github.com/Mehmetsahaf/kim-finallerden-gecmek-ister-oyun-programlama-odevi/assets/111656564/1dcccb08-bb95-4fc0-9926-355172eab5a9)
